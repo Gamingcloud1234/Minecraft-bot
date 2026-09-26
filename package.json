@@ -1,1 +1,12 @@
-
+{
+  "name": "NeoBot",
+  "version": "1.0.0",
+  "description": "24/7 Mineflayer bot for Minecraft 1.20.1",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "mineflayer": "^4.20.0"
+  }
+}
